@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 运行生成的演示输出（可重新生成）
+1-网页数据采集器/books.csv
+1-网页数据采集器/books.xlsx
+
+# 环境变量/密钥，切勿提交
+.env
